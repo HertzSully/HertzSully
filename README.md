@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Hertz S. Djihoua</h1>
-<h3 align="center">Data Modeling, Computing Systems, and Programming Expert based in Toronto, Canada</h3>
+# 👋 Hi, I'm Hertz S. Djihoua
+## Data Modeling, Computing Systems, and Programming Expert based in Toronto, Canada
 
 ---
 
@@ -7,13 +7,13 @@
 
 Highly versatile professional with a strong academic foundation in Fundamental Mathematics, Advanced Statistics (Big Data), and Information Systems Technology (Canadian DEC). My expertise sits at the intersection of predictive analysis, full-stack software development, and IT automation. Certified Google Data Analytics and Google IT Support. I focus on delivering solutions that transform raw data into strategic insights and complex systems into automated processes.
 
-- My approach is founded on **mathematical and statistical rigor (Master I) to transform Big Data into predictive solutions.**
-- I am committed to bridging **the gap between systems (DEC) and analysis to create functional applications and automate IT efficiency.**
+* 📐 My approach is founded on **mathematical and statistical rigor (Master I) to transform Big Data into predictive solutions.**
+* 🔗 I am committed to bridging **the gap between systems (DEC) and analysis to create functional applications and automate IT efficiency.**
 
 <p>
-  <a href="?" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_Resume-white?style=for-the-badge" alt="Resume Badge"/>
-  </a>
+  <a href="[INSÉRER VOTRE CV URL BRUTE ICI]" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-white?style=for-the-badge" alt="Resume Badge"/>
+  </a>
 </p>
 
 ---
@@ -26,44 +26,8 @@ Leveraging my unique profile (Math, Data, Systems) to maximize impact, my career
 3.  **Information Systems Technology (IT) :** Strong foundational skills in system administration, basic networking, and automating IT tasks via scripting (Bash/PowerShell).
 
 ---
-### 🚀 What I’m Working On
 
-Here’s what’s on my plate right now:
-
-- **AI Photo Generator** – Creating a generative AI app for high-quality photo generation
-- **Scheduling App** – Restaurant Scheduler App with AI shift and schedule suggestions
-- **Sudoku API & AI Agent Solver** – Developing a logic-based puzzle API and intelligent solver
-- **Sketch-to-Figma SaaS** – Turning hand-drawn sketches into Figma-ready wireframes using AI
-- **New Personal Portfolio** – Rebuilding a clean, modern, and interactive developer portfolio
-
----
-
-### 🌱 Currently Learning
-
-I’m currently focused on high-demand skills to bridge my Data/Maths background with full-stack development and enterprise infrastructure:
-
-* **Network & Infrastructure Fundamentals (CCNA Prep):** Deepening knowledge in routing, switching, and network security to enhance skills in IT systems and DevOps.
-* **Modern Full-Stack Development (React & JavaScript):** Solidifying advanced front-end mastery with **React Foundations** and a thorough review of **JavaScript and HTML/CSS** principles.
-* **Relational Database Management (PostgreSQL):** Mastering advanced querying and database administration crucial for Data Engineering and robust backend applications.
-* **Cloud & Deployment Readiness:** Applying knowledge gained from the Google IT Support Certificate to real-world deployment challenges.
-
----
-
-### 🤝 Open to Collaborate
-
-I love working with other developers and entrepreneurs who share a vision for impactful software.  
-If you’re working on a **SaaS** product in any industry, anything having to do with **AI**, or any other cool project, let’s connect!
-
----
-
-### 📫 Get in Touch
-
-- 📧 **Email:** [djihouah@gmail.com](mailto:djihouah@gmail.com)
-- 🌐 **Portfolio:** Coming soon
-
----
-
-### 3. 🛠️ Technical Stack & Key Competencies
+### 🛠️ Technical Stack & Key Competencies
 
 | Category | Languages, Libraries & Tools |
 | :--- | :--- |
@@ -92,23 +56,63 @@ These projects showcase my ability to leverage my mathematical foundation for da
 * **Goal:** Developed a complete internal housing search and listing platform (MVP) for the Collège Boréal community, focusing on dynamic listing management and filtering capabilities.
 * **Stack/Tools:** **Python/Flask**, **HTML/CSS/Bootstrap**, **Database Integration (Simulated/SQLite)**.
 * **Skills Demonstrated:** **Full-Stack Dev**, **Dynamic Search Logic**, **Database Interaction**.
-* **Link:** https://github.com/HertzSully/trouvetontoi.ca.git
+* **Link:** https://github.com/HertzSully/trouvetontoi.ca
 
 #### 3. 🍔 Wakanda Food: Full-Stack Restaurant Platform (Dynamic Menu)
 * **Goal:** Developed a web platform for a restaurant, focused on optimal user experience, dynamic menu display, and logic for order or reservation processing (Flask/Python).
 * **Stack/Tools:** **Python/Flask**, **HTML/CSS/Bootstrap**, **JavaScript**, Database management (Simulated or Real).
 * **Skills Demonstrated:** **Full-Stack Web Dev (Flask)**, **Front-End Design (Bootstrap)**, **User-Centric Logic**, **Database Interaction**.
-* **Link:** (https://github.com/HertzSully/resto.git)
+* **Link:** https://github.com/HertzSully/resto
 
 #### 4. ☁️ AWS Deployment Automation Pipeline (Docker & Bash)
 * **Goal:** A small DevOps project demonstrating the ability to containerize a micro-application (using Docker) and automate its deployment and management on an AWS EC2 instance using a Bash/PowerShell script.
 * **Skills Demonstrated:** **IT Automation**, **Dockerization**, **Cloud Fundamentals (AWS)**, **System Scripting (Bash/PowerShell)**.
 * **Link:** [Lien vers le dépôt du Projet #4 - Scripting/DevOps]
 
-  ---
+---
+
+### 🚀 What I’m Working On
+
+Here’s what’s on my plate right now:
+
+?
+---
+
+### 🌱 Currently Learning
+
+I’m currently focused on high-demand skills to bridge my Data/Maths background with full-stack development and enterprise infrastructure:
+
+* **Network & Infrastructure Fundamentals (CCNA Prep):** Deepening knowledge in routing, switching, and network security to enhance skills in IT systems and DevOps.
+* **Modern Full-Stack Development (React & JavaScript):** Solidifying advanced front-end mastery with **React Foundations** and a thorough review of **JavaScript and HTML/CSS** principles.
+* **Relational Database Management (PostgreSQL):** Mastering advanced querying and database administration crucial for Data Engineering and robust backend applications.
+* **Cloud & Deployment Readiness:** Applying knowledge gained from the Google IT Support Certificate to real-world deployment challenges.
+
+---
+
+### 📚 Education & Certifications
+* **DEC (College Diploma) in Techniques des systèmes informatiques** (*Information Systems Technology*) with High Distinction – Collège Boréal, Canada
+* **Master 1 – Statistics and Big Data** (Spécialization: Mathématiques et Informatique Appliquées à l'Économie, à la Finance et à l'Assurance) – Université de Yaoundé I, Cameroun
+* **Licence (Bachelor's Degree) in Sciences, Technology, Health, major in Mathematics** – Université du Mans, France
+* **Google Data Analytics Professional Certificate**
+* **Google IT Support Professional Certificate**
+
+---
+
+### 🤝 Open to Collaborate
+
+I love working with other developers and entrepreneurs who share a vision for impactful software.  
+If you’re working on a **SaaS** product in any industry, anything having to do with **AI**, or any other cool project, let’s connect!
+
+---
+
+### 📫 Get in Touch
+
+* 📧 **Email:** [djihouah@gmail.com](mailto:djihouah@gmail.com)
+* 🌐 **Portfolio:** Coming soon
+* 💬 **Ask me about:** 🤓 **Data storytelling** (transforming statistics into insights), **automating IT processes with Python**, and building user-centric **Flask applications**!
+
+---
 
 ### ⚡ Fun Fact
 
-I speak **French 🇫🇷** as my first language, and my current obsession is solving sudoku puzzles.
-
-
+I speak **French 🇫🇷** as my first language. My obsession with solving Sudoku puzzles is just how my brain trains for complex **algorithm design**.
