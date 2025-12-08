@@ -40,13 +40,12 @@ Here’s what’s on my plate right now:
 
 ### 🌱 Currently Learning
 
-I’m expanding my skill set in several areas to become a more versatile and product-oriented engineer:
+I’m currently focused on high-demand skills to bridge my Data/Maths background with full-stack development and enterprise infrastructure:
 
-- **API Design** with NestJS
-- **Mobile Development** with React Native
-- **Containerization & Deployment** with Docker
-- **System Design & Scalability** for high-performance apps
-- **AI & Automation** for developer productivity tools
+* **Network & Infrastructure Fundamentals (CCNA Prep):** Deepening knowledge in routing, switching, and network security to enhance skills in IT systems and DevOps.
+* **Modern Full-Stack Development (React & JavaScript):** Solidifying advanced front-end mastery with **React Foundations** and a thorough review of **JavaScript and HTML/CSS** principles.
+* **Relational Database Management (PostgreSQL):** Mastering advanced querying and database administration crucial for Data Engineering and robust backend applications.
+* **Cloud & Deployment Readiness:** Applying knowledge gained from the Google IT Support Certificate to real-world deployment challenges.
 
 ---
 
@@ -61,13 +60,6 @@ If you’re working on a **SaaS** product in any industry, anything having to do
 
 - 📧 **Email:** [djihouah@gmail.com](mailto:djihouah@gmail.com)
 - 🌐 **Portfolio:** Coming soon
-- 💬 **Ask me about:** The current socio-economic state of the world 🤓, FC Barcelona and building user-focused apps!
-
----
-
-### ⚡ Fun Fact
-
-I speak **French 🇫🇷** as my first language, and my current obsession is solving sudoku puzzles.
 
 ---
 
@@ -100,7 +92,7 @@ These projects showcase my ability to leverage my mathematical foundation for da
 * **Goal:** Developed a complete internal housing search and listing platform (MVP) for the Collège Boréal community, focusing on dynamic listing management and filtering capabilities.
 * **Stack/Tools:** **Python/Flask**, **HTML/CSS/Bootstrap**, **Database Integration (Simulated/SQLite)**.
 * **Skills Demonstrated:** **Full-Stack Dev**, **Dynamic Search Logic**, **Database Interaction**.
-* **Link:** [Lien vers votre dépôt personnel (fork ou copie) du Projet Logement]
+* **Link:** https://github.com/HertzSully/trouvetontoi.ca.git
 
 #### 3. 🍔 Wakanda Food: Full-Stack Restaurant Platform (Dynamic Menu)
 * **Goal:** Developed a web platform for a restaurant, focused on optimal user experience, dynamic menu display, and logic for order or reservation processing (Flask/Python).
@@ -112,4 +104,11 @@ These projects showcase my ability to leverage my mathematical foundation for da
 * **Goal:** A small DevOps project demonstrating the ability to containerize a micro-application (using Docker) and automate its deployment and management on an AWS EC2 instance using a Bash/PowerShell script.
 * **Skills Demonstrated:** **IT Automation**, **Dockerization**, **Cloud Fundamentals (AWS)**, **System Scripting (Bash/PowerShell)**.
 * **Link:** [Lien vers le dépôt du Projet #4 - Scripting/DevOps]
+
+  ---
+
+### ⚡ Fun Fact
+
+I speak **French 🇫🇷** as my first language, and my current obsession is solving sudoku puzzles.
+
 
