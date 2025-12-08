@@ -7,8 +7,8 @@
 
 Highly versatile professional with a strong academic foundation in Fundamental Mathematics, Advanced Statistics (Big Data), and Information Systems Technology (Canadian DEC). My expertise sits at the intersection of predictive analysis, full-stack software development, and IT automation. Certified Google Data Analytics and Google IT Support. I focus on delivering solutions that transform raw data into strategic insights and complex systems into automated processes.
 
-* 📐 My approach is founded on **mathematical and statistical rigor (Master I) to transform Big Data into predictive solutions.**
-* 🔗 I am committed to bridging **the gap between systems (DEC) and analysis to create functional applications and automate IT efficiency.**
+* 📐 My approach is founded on **mathematical and statistical rigor to transform Big Data into predictive solutions.**
+* 🔗 I am committed to bridging **the gap between systems and analysis to create functional applications and automate IT efficiency.**
 
 <p>
   <a href="[INSÉRER VOTRE CV URL BRUTE ICI]" target="_blank">
