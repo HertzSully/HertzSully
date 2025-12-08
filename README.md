@@ -1,23 +1,31 @@
-<h1 align="center">👋 Hi, I'm Dimitri Njila</h1>
-<h3 align="center">Software Engineer based in Toronto, Canada</h3>
+<h1 align="center">👋 Hi, I'm Hertz S. Djihoua</h1>
+<h3 align="center">Data Modeling, Computing Systems, and Programming Expert based in Toronto, Canada</h3>
 
 ---
 
 ### 💡 About Me
 
-I’m a developer with a business-oriented mindset, passionate about creating products that are not only technically sound but strategically impactful. I enjoy taking ideas from concept to execution, bridging the gap between innovation and user value.
+Highly versatile professional with a strong academic foundation in Fundamental Mathematics, Advanced Statistics (Big Data), and Information Systems Technology (Canadian DEC). My expertise sits at the intersection of predictive analysis, full-stack software development, and IT automation. Certified Google Data Analytics and Google IT Support. I focus on delivering solutions that transform raw data into strategic insights and complex systems into automated processes.
 
-- Currently focused on **building meaningful, user-driven applications**
-- Advocating for **innovation and representation** in tech
+- My approach is founded on **mathematical and statistical rigor (Master I) to transform Big Data into predictive solutions.**
+- I am committed to bridging **the gap between systems (DEC) and analysis to create functional applications and automate IT efficiency.**
 
 <p>
-  <a href="https://dimitrinjila.github.io/Dimitri_Njila_Resume.pdf" target="_blank">
+  <a href="?" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-white?style=for-the-badge" alt="Resume Badge"/>
   </a>
 </p>
 
 ---
 
+### 🎯 Career Goals & Priorities
+Leveraging my unique profile (Math, Data, Systems) to maximize impact, my career goals are clearly prioritized:
+
+1.  **Data Science & Analysis (Top Priority) :** Focused on predictive modeling (ML) and Exploratory Data Analysis (EDA), utilizing Python/R and SQL to solve complex business challenges.
+2.  **Full-Stack Web Development :** Building robust applications focused on data display, user interaction, and consuming data APIs.
+3.  **Information Systems Technology (IT) :** Strong foundational skills in system administration, basic networking, and automating IT tasks via scripting (Bash/PowerShell).
+
+---
 ### 🚀 What I’m Working On
 
 Here’s what’s on my plate right now:
@@ -63,7 +71,17 @@ I speak **French 🇫🇷** as my first language, and my current obsession is so
 
 ---
 
-### 🧰 My Stack
+### 3. 🛠️ Technical Stack & Key Competencies
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /> <img src="https://logo.svgcdn.com/logos/supabase.svg" alt="Supabase" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firestore" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /> </p>
+| Category | Languages, Libraries & Tools |
+| :--- | :--- |
+| **Data Science / ML** | **Python (Pandas, NumPy, Scikit-learn, Matplotlib)**, **R**, Scala, Julia, Predictive Modeling, Time Series, Statistical Analysis, Machine Learning Algorithms. |
+| **Big Data / Data Eng.** | Spark (PySpark), Hadoop, Kafka, Airflow, ETL/ELT, Data Warehousing (Concepts). |
+| **Databases / SQL** | **SQL (PostgreSQL, MySQL)**, **NoSQL (MongoDB)**, T-SQL, Advanced Querying, Database Design. |
+| **Data Visualization** | **Tableau**, Power BI, Looker Studio, Matplotlib, Seaborn, Plotly. |
+| **Web Development** | **Frontend:** **JavaScript/TypeScript**, React, Vue.js, Angular, HTML5, CSS3. |
+| | **Backend:** **Python (Django, Flask)**, Node.js/Express, Architecture RESTful. |
+| **Systems / IT** | **Linux (Bash)**, **Windows Server**, Virtualization, **PowerShell**, **Networking Fundamentals (DEC)**, IT Security (Basics). |
+| **Cloud & DevOps** | Git/GitHub, **Docker** (Basics), **AWS** (S3, EC2 - Basics), Azure, GCP, CI/CD (Concepts). |
+| **Methodologies** | **Agile/Scrum**, Version Control (Git). |
 
