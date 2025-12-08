@@ -59,7 +59,7 @@ If you’re working on a **SaaS** product in any industry, anything having to do
 
 ### 📫 Get in Touch
 
-- 📧 **Email:** [dimitrinjila45@gmail.com](mailto:dimitrinjila45@gmail.com)
+- 📧 **Email:** [djihouah@gmail.com](mailto:djihouah@gmail.com)
 - 🌐 **Portfolio:** Coming soon
 - 💬 **Ask me about:** The current socio-economic state of the world 🤓, FC Barcelona and building user-focused apps!
 
@@ -75,13 +75,35 @@ I speak **French 🇫🇷** as my first language, and my current obsession is so
 
 | Category | Languages, Libraries & Tools |
 | :--- | :--- |
-| **Data Science / ML** | **Python (Pandas, NumPy, Scikit-learn, Matplotlib)**, **R**, Scala, Julia, Predictive Modeling, Time Series, Statistical Analysis, Machine Learning Algorithms. |
-| **Big Data / Data Eng.** | Spark (PySpark), Hadoop, Kafka, Airflow, ETL/ELT, Data Warehousing (Concepts). |
+| **Data Science / ML** | **Python (Pandas, NumPy, Scikit-learn, Matplotlib)**, **R**, Scala, Predictive Modeling, Statistical Analysis, Machine Learning Algorithms. |
+| **Big Data / Data Eng.** | Spark (PySpark), Hadoop, Kafka. |
 | **Databases / SQL** | **SQL (PostgreSQL, MySQL)**, **NoSQL (MongoDB)**, T-SQL, Advanced Querying, Database Design. |
-| **Data Visualization** | **Tableau**, Power BI, Looker Studio, Matplotlib, Seaborn, Plotly. |
+| **Data Visualization** | **Tableau**, Power BI, Matplotlib, Plotly. |
 | **Web Development** | **Frontend:** **JavaScript/TypeScript**, React, Vue.js, Angular, HTML5, CSS3. |
 | | **Backend:** **Python (Django, Flask)**, Node.js/Express, Architecture RESTful. |
-| **Systems / IT** | **Linux (Bash)**, **Windows Server**, Virtualization, **PowerShell**, **Networking Fundamentals (DEC)**, IT Security (Basics). |
+| **Systems / IT** | **Linux (Bash)**, **Windows Server**, Virtualization, **PowerShell**, **Networking **, IT Security (Basics). |
 | **Cloud & DevOps** | Git/GitHub, **Docker** (Basics), **AWS** (S3, EC2 - Basics), Azure, GCP, CI/CD (Concepts). |
 | **Methodologies** | **Agile/Scrum**, Version Control (Git). |
+
+---
+
+### 4. 📌 Pinned Projects (Key Demonstrations)
+
+These projects showcase my ability to leverage my mathematical foundation for data analysis, build functional applications, and manage IT systems.
+
+#### 1. 📈 Predictive Financial Time Series Analysis (Python/R)
+* **Goal:** A complete data science pipeline using Python (Scikit-learn, Pandas) and R for statistical validation, focused on predicting future trends in financial data (e.g., stock index, cryptocurrency).
+* **Skills Demonstrated:** **Predictive Modeling**, **Statistical Rigor**, **Time Series Decomposition**, **Python/R** Mastery.
+* **Link:** [Lien vers le dépôt du Projet #1]
+
+#### 2. 📊 Full-Stack Interactive Data Dashboard (React & Django/Flask)
+* **Goal:** Development of a web application featuring an interactive dashboard to visualize key metrics (e.g., customer engagement or sales data) retrieved via a RESTful API powered by a PostgreSQL database.
+* **Skills Demonstrated:** **Full-Stack Web Dev**, **REST API Design**, **PostgreSQL Querying**, **Data Storytelling**.
+* **Link:** [Lien vers le dépôt du Projet #2]
+
+#### 3. ☁️ AWS Deployment Automation Pipeline (Docker & Bash)
+* **Goal:** A small DevOps project demonstrating the ability to containerize a micro-application (using Docker) and automate its deployment and management on an AWS EC2 instance using a Bash/PowerShell script.
+* **Skills Demonstrated:** **IT Automation**, **Dockerization**, **Cloud Fundamentals (AWS)**, **System Scripting (Bash/PowerShell)**.
+* **Link:** [Lien vers le dépôt du Projet #3]
+
 
