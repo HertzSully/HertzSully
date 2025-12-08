@@ -92,18 +92,24 @@ I speak **French 🇫🇷** as my first language, and my current obsession is so
 These projects showcase my ability to leverage my mathematical foundation for data analysis, build functional applications, and manage IT systems.
 
 #### 1. 📈 Predictive Financial Time Series Analysis (Python/R)
-* **Goal:** A complete data science pipeline using Python (Scikit-learn, Pandas) and R for statistical validation, focused on predicting future trends in financial data (e.g., stock index, cryptocurrency).
+* **Goal:** A complete data science pipeline using Python (Scikit-learn, Pandas) and R for statistical validation, focused on predicting future trends in financial data.
 * **Skills Demonstrated:** **Predictive Modeling**, **Statistical Rigor**, **Time Series Decomposition**, **Python/R** Mastery.
-* **Link:** [Lien vers le dépôt du Projet #1]
+* **Link:** [Lien vers le dépôt du Projet #1 - Data Science]
 
-#### 2. 📊 Full-Stack Interactive Data Dashboard (React & Django/Flask)
-* **Goal:** Development of a web application featuring an interactive dashboard to visualize key metrics (e.g., customer engagement or sales data) retrieved via a RESTful API powered by a PostgreSQL database.
-* **Skills Demonstrated:** **Full-Stack Web Dev**, **REST API Design**, **PostgreSQL Querying**, **Data Storytelling**.
-* **Link:** [Lien vers le dépôt du Projet #2]
+#### 2. 🏠 Full-Stack Housing Search Platform (Team Project)
+* **Goal:** Developed a complete internal housing search and listing platform (MVP) for the Collège Boréal community, focusing on dynamic listing management and filtering capabilities.
+* **Stack/Tools:** **Python/Flask**, **HTML/CSS/Bootstrap**, **Database Integration (Simulated/SQLite)**.
+* **Skills Demonstrated:** **Full-Stack Dev**, **Dynamic Search Logic**, **Database Interaction**.
+* **Link:** [Lien vers votre dépôt personnel (fork ou copie) du Projet Logement]
 
-#### 3. ☁️ AWS Deployment Automation Pipeline (Docker & Bash)
+#### 3. 🍔 Wakanda Food: Full-Stack Restaurant Platform (Dynamic Menu)
+* **Goal:** Developed a web platform for a restaurant, focused on optimal user experience, dynamic menu display, and logic for order or reservation processing (Flask/Python).
+* **Stack/Tools:** **Python/Flask**, **HTML/CSS/Bootstrap**, **JavaScript**, Database management (Simulated or Real).
+* **Skills Demonstrated:** **Full-Stack Web Dev (Flask)**, **Front-End Design (Bootstrap)**, **User-Centric Logic**, **Database Interaction**.
+* **Link:** (https://github.com/HertzSully/resto.git)
+
+#### 4. ☁️ AWS Deployment Automation Pipeline (Docker & Bash)
 * **Goal:** A small DevOps project demonstrating the ability to containerize a micro-application (using Docker) and automate its deployment and management on an AWS EC2 instance using a Bash/PowerShell script.
 * **Skills Demonstrated:** **IT Automation**, **Dockerization**, **Cloud Fundamentals (AWS)**, **System Scripting (Bash/PowerShell)**.
-* **Link:** [Lien vers le dépôt du Projet #3]
-
+* **Link:** [Lien vers le dépôt du Projet #4 - Scripting/DevOps]
 
