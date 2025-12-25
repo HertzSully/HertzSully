@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hertz S. Djihoua
-## Data Modeling, Computing Systems, and Programming Expert based in Toronto, Canada
+## Data Engineer Expert based in Toronto, Canada
 
 ---
 
