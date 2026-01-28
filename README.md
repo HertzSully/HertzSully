@@ -11,7 +11,7 @@ Highly versatile professional with a strong academic foundation in Fundamental M
 * 🔗 I am committed to bridging **the gap between systems and analysis to create functional applications and automate IT efficiency.**
 
 <p>
-  <a href="Hertz_Djihoua_Resume.pdf" target="_blank">
+  <a href="https://github.com/HertzSully/Resume_HertzSullyDjihoua.git" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-white?style=for-the-badge" alt="Resume Badge"/>
   </a>
 </p>
